@@ -162,12 +162,12 @@ Skills are simple text scripts too, like the one below:
 ```
 missile # Define skill type here
 type magic # Sets missile type as magic
-# todo
+#
 
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByb2plY3QgQXJjYW5hXG
 5hdXRob3I6IE5pY2tvbGF5IElseXVzaGluXG5leHRlbnNpb25z
-OlxuICBwcmVzZXQ6IGdmbVxuIiwiaGlzdG9yeSI6Wy01MzM5OT
-g0MjNdfQ==
+OlxuICBwcmVzZXQ6IGdmbVxuIiwiaGlzdG9yeSI6WzE5MDI2OD
+U2MjUsLTUzMzk5ODQyM119
 -->
