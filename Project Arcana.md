@@ -145,7 +145,7 @@ Such a script can be compiled to a simple data structure like this:
     {"what": "$level", "between": ["$light", "$lightning", "$fire"]}
   ],
   "from": [
-    // here all attributes except for light, lightning and fire are listed
+    "<here all attributes except for light, lightning and fire are listed>"
   ],
   "invest": [
     {"what": "$light", "into": "light"},
@@ -155,5 +155,5 @@ Such a script can be compiled to a simple data structure like this:
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQzODA4MzVdfQ==
+eyJoaXN0b3J5IjpbLTgyODAxNjY4OV19
 -->
