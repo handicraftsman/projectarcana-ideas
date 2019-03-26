@@ -155,5 +155,8 @@ Such a script can be compiled to a simple data structure like this:
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODAxNjY4OV19
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFByb2plY3QgQXJjYW5hXG
+5hdXRob3I6IE5pY2tvbGF5IElseXVzaGluXG5leHRlbnNpb25z
+OlxuICBwcmVzZXQ6IGdmbVxuIiwiaGlzdG9yeSI6Wzg2Mzg3ND
+Q1XX0=
 -->
